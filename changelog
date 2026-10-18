@@ -1,0 +1,2 @@
+[x] Replaced history output requests with field output for displacement and reaction-force extraction, avoiding Abaqus history-output limits.
+[x] Updated postprocessing to read displacements and reaction forces from the same final increment.
