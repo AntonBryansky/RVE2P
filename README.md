@@ -77,6 +77,6 @@ Use a consistent unit system. Elastic moduli follow the stress units of the mode
 
 ## Related paper
 
-A. A. Bryansky and R. R. Badykov.
+A. A. Bryansky and R. R. Badykov. HOMOGENIZATION-BASED SOUND VELOCITY PREDICTION IN LAYERED CFRP AND HONEYCOMB SANDWICH COMPOSITES
 
 Full publication details and a DOI link will be added when available.
